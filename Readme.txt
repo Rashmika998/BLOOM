@@ -26,6 +26,7 @@ The music player will mainly contain of soothing music and ASMR tracks. Followin
  Lower blood pressure
  Replenish body muscles and limbs
  
+Anti-stress Games
 System will also assist the user to select a suitable game according to the preference.
 The following benefits can be gained from playing anti-stress games:
  Reduce cognitive fatigue
