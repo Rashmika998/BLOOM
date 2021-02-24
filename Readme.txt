@@ -5,7 +5,7 @@ Theme URL: https://bootstrapmade.com/maxim-free-onepage-bootstrap-theme/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
 “BLOOM” is to help people to relieve their mental stress in a much congenial manner by making them engaged in several mind relaxing activities. Mental stress is a social phenomenon which all social groups and all age categories may experience. Hence the beneficiaries and the intended audience of this system will be people of any age category.
-BLOOM is developed as a web application and it is supported in mobile platforms as well. This is for the use of the general public and 100% free for anyone to use. Also the users are privileged with sharing their own intentions about the application as feedbacks. All these information is maintained in a database which is located on a web server. Administration is granted permission to access this information for further analysis purposes.
+BLOOM is developed as a web application and it is supported in mobile platforms as well. This is for the use of the general public and 100% free for anyone to use. Also the users are privileged with sharing their own intentions about the application as feedbacks. All these information is maintained in a database which is located on a web server. Administration is granted permission to access this information for further analysis purposes. (Group Project)
 The process is based upon the techniques of machine learning, deep learning and CNN. Initially the user’s emotions will be detected and the system offers the three main features listed below for the user to engage with.
  A virtual text based chat-bot to communicate with
  An emotion based music player which consists of calming music tracks
